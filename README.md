@@ -32,8 +32,16 @@ their activities should be directed to the areas which will have the greatest im
 
 ## Analysis 
  
-- Logistic Regression
+- **Logistic Regression**
   - Target Variable = Treatment Completed (No (0)/ Yes (1))
+  - 75 Features encompassing each of the categories below:
+    - Social
+    - Behavioral
+    - Clinical
+    - Demographic 
 
+- **Feature Importance**
 
-
+  - Region
+   
+<img width="799" alt="Screen Shot 2022-07-15 at 6 42 19 PM" src="https://user-images.githubusercontent.com/100314469/179321055-3aa7f3e7-703a-416b-ae91-b58b3482de34.png">
