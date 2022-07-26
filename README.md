@@ -47,12 +47,15 @@ their activities should be directed to the areas which will have the greatest im
 <img width="796" alt="Screen Shot 2022-07-15 at 6 45 35 PM" src="https://user-images.githubusercontent.com/100314469/179321330-0ec0702b-1eee-4a20-bd3e-6a67f4b4ebe8.png">
 
   **Region**
+  
   <img width="600" alt="Screen Shot 2022-07-26 at 3 06 18 PM" src="https://user-images.githubusercontent.com/100314469/181091547-93a56a0e-04e8-43db-94b6-9533b0fa5bcb.png">
 
   **Substance**
+  
   <img width="746" alt="Screen Shot 2022-07-26 at 3 09 14 PM" src="https://user-images.githubusercontent.com/100314469/181091780-9a0006ed-1e44-42cc-b125-24d688b0eb66.png">
 
   **Employment**
+  
   <img width="743" alt="Screen Shot 2022-07-26 at 3 09 31 PM" src="https://user-images.githubusercontent.com/100314469/181091858-f8bc87ba-d929-4ee0-9d52-6761c3d228ec.png">
 
   - The key features with the greatest impact on treatment completion include: 
