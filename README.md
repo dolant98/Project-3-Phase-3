@@ -47,7 +47,7 @@ their activities should be directed to the areas which will have the greatest im
 <img width="796" alt="Screen Shot 2022-07-15 at 6 45 35 PM" src="https://user-images.githubusercontent.com/100314469/179321330-0ec0702b-1eee-4a20-bd3e-6a67f4b4ebe8.png">
 
   - The key features with the greatest impact on treatment completion include: 
-    -  **Region** - West Coast has a higher completion rate
+    -  **Region** - The West Coast has a higher completion rate - this requires more research into the population as well as treatment protocols
     -  **Substance** - Members whose primary substance is heroin and opiates have a lower completion rate
     -  **Employment** - Members who are able to find full-time employment have a higher completion rate than those who are unemployed
    
